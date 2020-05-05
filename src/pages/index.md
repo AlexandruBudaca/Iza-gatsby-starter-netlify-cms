@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Retele lui Eric
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/briose-eric.jpg
+heading: Rețetele lui Eric
 subheading: Retete pentru copii
 mainpitch:
   title: Eric
