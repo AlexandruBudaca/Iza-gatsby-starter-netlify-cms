@@ -15,7 +15,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="Kaldi"
-            style={{ width: "14em", height: "10em" }}
+            style={{ width: "14em", height: "14em" }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -76,7 +76,7 @@ const Footer = class extends React.Component {
               <div className="column is-6 social">
                 <a title="vimeo" href="https://vimeo.com">
                   <img
-                    src={vimeo}
+                    src={instagram}
                     alt="Vimeo"
                     style={{ width: "1em", height: "1em" }}
                   />
