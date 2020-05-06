@@ -31,20 +31,20 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        Despre
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Retete
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <a
                         className="navbar-item"
                         href="/admin/"
@@ -53,7 +53,7 @@ const Footer = class extends React.Component {
                       >
                         Admin
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>
@@ -62,7 +62,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Ultimele retete
                       </Link>
                     </li>
                     <li>
@@ -74,10 +74,10 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-6 social">
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="vimeo" href="https://instagram.com">
                   <img
                     src={instagram}
-                    alt="Vimeo"
+                    alt="Instagram"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
